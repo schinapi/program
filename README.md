@@ -61,5 +61,5 @@ name | 价格 |  数量
 + afoasjfoajf
 - kajfoajfoaj
 ```
-![figure][onepiece.jpg]
+![figure][https://github.com/schinappipy/program/blob/master/onepiece.jpg]
   
