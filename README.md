@@ -59,10 +59,8 @@ name | 价格 |  数量
 :blush:
 ```diff
 + afoasjfoajf
-```diff
-```diff 
 - kajfoajfoaj
-```diff
+```
 
 
   
