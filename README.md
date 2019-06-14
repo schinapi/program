@@ -14,9 +14,7 @@ aadfa
   jia  
   hao  
 single  
-  '''wang
-     jia  
-     hao'''
+'''wang  jia  hao'''
  
 'linux'
 
