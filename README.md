@@ -7,3 +7,17 @@
 ***
 ---
 ____
+aadfa  
+  single
+  
+  wang  
+  jia  
+  hao  
+single  
+  '''wang
+     jia  
+     hao'''
+ 
+'linux'
+
+  
