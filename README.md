@@ -43,4 +43,14 @@ __粗体__
 >> 树
 >>> 二叉树
 
+```python
+from a import b
+def fac(n):
+   return 1 if n == 0 else n * fac(n-1)
+ print(fac(5))
+ ```
+ 
+
+
+
   
