@@ -57,7 +57,12 @@ name | 价格 |  数量
 草莓 | $1 | 7 |
 
 :blush:
-``` diff +afoasjfoajf
-``` diff -kajfoajfoajfo
+```diff
++ afoasjfoajf
+```diff
+```diff 
+- kajfoajfoaj
+```diff
+
 
   
