@@ -1,7 +1,7 @@
 # 目录
 * [标题](https://github.com/schinappipy/program/blob/master/README.md#%E6%A0%87%E9%A2%98)
 * 文本
-    * 普通文本
+    * [普通文本](https://github.com/schinappipy/program/blob/master/README.md#%E6%99%AE%E9%80%9A%E6%96%87%E6%9C%AC)
     * 单行文本
     
     
